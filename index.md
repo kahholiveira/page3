@@ -1,2 +1,2 @@
-# page3
-page 3
+title: page 3
+theme: hacker
